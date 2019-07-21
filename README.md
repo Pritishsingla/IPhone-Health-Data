@@ -10,4 +10,4 @@ The data file will be exported in the .xml format
 To convert the .xml file into the Excel format(.xlsx), use the following link:
 https://conversiontools.io/conversion/convert_xml_to_excel
 
-Once you have downloaded the converted file, you are good to go.
+Once you have downloaded the converted file, you are good to go
